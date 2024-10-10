@@ -1,0 +1,22 @@
+傲娇   Fighter_AoJiao
+楚心云   Fighter_ChuXinYun
+端木晴   Fighter_DuanMuQin
+柳如月   Fighter_LiuRuYue
+主角变身   Fighter_Main01
+主角刀   Fighter_MainDao
+通用散修男   Fighter_Male01
+通用门派男   Fighter_SectMale
+通用门派女   Fighter_SectFemale
+小白（拳） W_005  Fighter_XiaoBai
+萧剑   Fighter_XiaoJian
+萧钰澜   Fighter_XiaoYuLan
+嬴月   Fighter_YinYue
+云可心   Fighter_YunKeXin
+张合   Fighter_ZhangHe
+楚朝云   Fighter_楚朝云
+
+軨軨   Fighter_LinLin
+老蜘蛛   Fighter_LaoZhiZhu
+山蜘蛛   Fighter_SanZhiZhu
+獓骃   Fighter_AoYin
+有穷鬼   Fighter_YouQiongGui

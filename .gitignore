@@ -1,0 +1,7 @@
+build/bin
+node_modules
+frontend/dist
+.idea
+/mapParse/result
+/mapParse/Common
+/Common
