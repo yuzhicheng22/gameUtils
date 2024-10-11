@@ -118,9 +118,11 @@ model_ani_num = {
     "暮成雪序列图": "MuChenXue",  # 暮成雪
     "苏小小序列图": "ShuXiaoXiao",  # 苏小小
     "温柔序列帧": "WenRou",  # 温柔
+    "温柔剑序列帧": "WenRou",  # 温柔
     "温柔拳序列帧": "WenRou",  # 温柔
     "穷奇序列帧": "QiongQi",  # 穷奇
     "小红序列图": "XiaoHong",  # 小红
+    "小白序列帧": "XiaoBai",  # 小红
     "万山序列图": "WanShan",  # 万山
     "江子墨序列图": "JiangZiMo",  # 江子墨
     "夏夕颜序列图": "XiaXiYan",  # 夏夕颜

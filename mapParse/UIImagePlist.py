@@ -8,8 +8,8 @@ import os
 
 
 def start_item(item=R""):
-    distFold = R"E:\project\projectLB\Lb-Tools\mapParse\AnimDist"
-    aniFold = R"E:\project\projectLB\Tjp-LB\Tjp-Lb-Client\assets\bundle\AnimPlist"
+    distFold = R"F:\self\gameUtils\mapParse\AnimDist"
+    aniFold = R"F:\afk_client\Tjp-Lb-Client\assets\bundle\AnimPlist"
 
     # 生产plist文件
     EntityGenPlist.EntityGenPlist.start_item(distFold + item, aniFold)
@@ -23,8 +23,8 @@ def start_item(item=R""):
 
 
 if __name__ == '__main__':
-    distFold = R"E:\project\projectLB\Lb-Tools\mapParse\AnimDist"
-    aniFold = R"E:\project\projectLB\Tjp-LB\Tjp-Lb-Client\assets\bundle\Anim"
+    distFold = R"F:\self\gameUtils\mapParse\AnimDist"
+    aniFold = R"F:\afk_client\Tjp-Lb-Client\assets\bundle\Anim"
     # aniFold = R"E:\project\projectLB\FightDemo249\assets\bundle\Ani"
 
     # if item != "":
@@ -40,7 +40,7 @@ if __name__ == '__main__':
     # item_list = []
     item_ext = ["MainHook", "MainJianHook"]
     # item_list =[ R"\DingFengChou", R"\FengFeiXue", R"\JinDaBao", R"\LenLiuSu", R"\MuChenXue", R"\ShuXiaoXiao", R"\WenRou"]
-    item_list = [R"\ChuXinYun"]
+    item_list = [R"\XiaXiYan",R"\XiaoBai"]
     # item_list = [R"\ChuZhaoYun", R"\LiuRuYue", R"\XiaoYuLan", R"\XiaoJian", R"\YinYue", R"\MainJian",]
     # item_list = [R"\MuChenXue", R"\LiuSuiFeng", R"\LenLiuSu", R"\JiangMuHeng", R"\JiangZiMo",]
     # item_list = [R"\WanFen", R"\ShuXiaoXiao", R"\SongQianHe", R"\SiMaLingXuan", R"\ShaoYang",]

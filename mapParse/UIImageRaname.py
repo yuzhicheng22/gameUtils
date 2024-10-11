@@ -3,12 +3,13 @@ import anim.EntityAnimRename as EntityAnimRename
 
 if __name__ == '__main__':
 
-    distFold = R"E:\project\projectLB\Lb-Tools\mapParse\所有序列帧"
-    aniFold = R"E:\project\projectLB\Lb-Tools\mapParse\AnimSource"
+    distFold = R"F:\afk_ui\模型"
+    aniFold = R"F:\self\gameUtils\mapParse\AnimSource"
     imageQuant = EntityAnimRename.EntityAnimRename()
     # item = ""
     # 白起序列图
-    item = "w010"
+    item = "小白序列帧"
+    
     if item == "":
         imageQuant.rename_dir(distFold, aniFold)
     else:

@@ -11,11 +11,11 @@ import anim.EntityAnim as EntityAnim
 import anim.EntityPrefab as EntityPrefab
 
 if __name__ == '__main__':
-    distFold = R"E:\project\projectLB\Lb-Tools\mapParse\AnimDist"
-    aniFold = R"E:\project\projectLB\Tjp-LB\Tjp-Lb-Client\assets\bundle\Anim"
+    distFold = R"F:\self\gameUtils\mapParse\AnimDist"
+    aniFold = R"F:\afk_client\Tjp-Lb-Client\assets\bundle\Anim"
     # aniFold = R"E:\project\projectLB\FightDemo249\assets\bundle\Ani"
     # item = R""
-    item = R"\ChuXinYun"
+    item = R"\XiaoBai"
     # R"\ChuZhaoYun", R"\LiuRuYue", R"\XiaoYuLan", R"\XiaoJian", R"\YinYue", R"\MainJian",
     # R"\TaoWu", R"\TaoTie", R"\QiongQi", R"\HunDun", R"\ShenManJun",
     # R"\XuanYuanZhanTian", R"\WenRou", R"\XiaoHong", R"\XiaXiYan", R"\WanShan",
@@ -24,7 +24,7 @@ if __name__ == '__main__':
     # R"\FengFeiXue", R"\DingFengChou", R"\BaiLiXi", R"\BaiZhan", R"\BaiQi",
 
     imageScale = EntityImageScale.EntityImageScale()
-    uiBaseDir = R"E:\project\projectLB\Lb-Tools\mapParse\AnimSource" + item
+    uiBaseDir = R"F:\self\gameUtils\mapParse\AnimSource" + item
     distItem = distFold + item
     # 删除对应的目录
     EntityImageScale.EntityImageScale.rm_dir(distItem)
